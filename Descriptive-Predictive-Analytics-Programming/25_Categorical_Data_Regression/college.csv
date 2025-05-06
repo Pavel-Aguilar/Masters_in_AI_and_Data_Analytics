@@ -1,0 +1,86 @@
+id,name,salary,cost,public,location
+1,Massachusetts Institute of Technology (MIT),119000,189300,Private,NE
+2,Harvard University,121000,189600,Private,NE
+3,Dartmouth College,123000,188400,Private,NE
+4,Princeton University,123000,188700,Private,NE
+5,Yale University,110000,194200,Private,NE
+6,University of Notre Dame,112000,181900,Private,MW
+7,University of Pennsylvania,111000,191300,Private,NE
+8,Duke University,117000,187600,Private,S
+9,Lehigh University,111000,180400,Private,NE
+10,Worcester Polytechnic Institute (WPI),104000,184900,Private,NE
+11,Carnegie Mellon University (CMU),108000,190600,Private,NE
+12,Colgate University,119000,187700,Private,NE
+13,Columbia University,99700,192200,Private,NE
+14,Rensselaer Polytechnic Institute (RPI),109000,227300,Private,NE
+15,Georgetown University,104000,199800,Private,S
+16,Brown University,109000,189800,Private,NE
+17,Rice University,100000,159400,Private,S
+18,Colorado School of Mines,113000,95740,Public,W
+19,Cornell University,106000,188200,Private,NE
+20,Lafayette College,107000,179500,Private,NE
+21,Georgia Institute of Technology,105000,79140,Public,S
+22,College of the Holy Cross,106000,18260,Private,NE
+23,University Of Chicago,100000,195800,Private,MW
+24,Manhattan College,105000,137100,Private,NE
+25,University of Virginia (UVA),93900,74410,Public,S
+26,Williams College,106000,183200,Private,NE
+27,Rose-Hulman Institute of Technology (RHIT),97300,166700,Private,MW
+28,Washington and Lee University,107000,177700,Private,S
+29,Bucknell University,115000,184600,Private,NE
+30,Johns Hopkins University,90100,190100,Private,S
+31,Swarthmore College,106000,188200,Private,NE
+32,The College of William and Mary,91700,74720,Public,S
+33,Vanderbilt University,104000,193200,Private,S
+34,Washington University In St. Louis,91400,194200,Private,MW
+35,University of Illinois at Urbana-Champaign (UIUC),96500,106500,Public,MW
+36,University of Michigan,90200,84690,Public,MW
+37,Carleton College,105000,182600,Private,MW
+38,Case Western Reserve University,98600,214400,Private,MW
+39,Virginia Polytechnic Institute and State University (Virginia Tech),94700,83270,Public,S
+40,Northwestern University,91900,194400,Private,MW
+41,Texas A&M University,93300,88540,Public,S
+42,George Washington University (GWU),93500,206100,Private,S
+43,Brigham Young University (BYU),85900,58450,Private,W
+44,Emory University,90000,184400,Private,S
+45,New Jersey Institute of Technology (NJIT),101000,117400,Public,NE
+46,University of Maryland (UMD),88400,101400,Public,S
+47,Miami University,91400,121700,Public,MW
+48,Kettering University,92500,204000,Private,MW
+49,Tulane University,92200,226600,Private,S
+50,Wake Forest University,97500,181400,Private,S
+51,Missouri University of Science and Technology (MST),93200,84670,Public,MW
+52,Loyola University Maryland,97600,179400,Private,S
+53,Illinois Institute of Technology (IIT),96300,183800,Private,MW
+54,University of Florida (UF),84300,70150,Public,S
+55,University of Texas (UT) - Austin,87500,95900,Public,S
+56,University of Connecticut (UConn),87700,99350,Public,NE
+57,Michigan Technological University,90100,93910,Public,MW
+58,Davidson College,101000,170200,Private,S
+59,University of Wisconsin (UW) - Madison,87400,83120,Public,MW
+60,University of Washington (UW),86500,86820,Public,W
+61,Pennsylvania State University (PSU),83900,117700,Public,NE
+62,Whitman College,82000,168500,Private,W
+63,University of Colorado - Boulder (UCB),91600,98710,Public,W
+64,Ohio Wesleyan University (OWU),90100,192300,Private,MW
+65,Stony Brook University,90800,83490,Public,NE
+66,University of Denver,83700,213000,Private,W
+67,Washington State University (WSU),82400,91490,Public,W
+68,Iowa State University,83500,82420,Public,MW
+69,University of Massachusetts (UMass) - Lowell,91100,84470,Public,NE
+70,Oregon State University (OSU),89800,84120,Public,W
+71,Seattle University,82100,185200,Private,W
+72,University of Minnesota,83000,96230,Public,MW
+73,Gonzaga University,81600,147100,Private,W
+74,University of Arizona,84700,82610,Public,W
+75,Western Washington University,78600,79310,Public,W
+76,University of Idaho,77000,77090,Public,W
+77,Arizona State University (ASU),81600,83250,Public,W
+78,University of Utah,81700,79570,Public,W
+79,Colorado College (CC),87100,176200,Private,W
+80,South Dakota School of Mines & Technology,89800,69990,Public,MW
+81,Colorado State University (CSU),79300,74070,Public,W
+82,University of Wyoming (UW),80100,69800,Public,W
+83,Pacific Lutheran University,74900,169200,Private,W
+84,University of Colorado - Denver,84500,56970,Public,W
+85,Willamette University,78200,197100,Private,W
