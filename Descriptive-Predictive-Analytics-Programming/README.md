@@ -13,3 +13,13 @@ This folder includes various practices and projects covering topics such as:
 * **Descriptive Statistics:** Implementing calculations and interpreting statistical measures.
 * **Predictive Modeling:** Building, training, and evaluating supervised learning models (e.g., Regression, Classification).
 * **Model Evaluation:** Assessing performance using appropriate metrics and techniques (like validation and selection, which is your Practice 27).
+
+## Technologies Used
+
+The practices in this folder primarily utilize Python and the following libraries:
+
+* `Pandas`
+* `NumPy`
+* `Scikit-learn`
+* `Matplotlib`
+* `Seaborn`
