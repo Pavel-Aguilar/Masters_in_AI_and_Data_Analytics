@@ -1,0 +1,6 @@
+"""En el Congreso Internacional de Inteligencia Artificial 2025 se discutieron avances muy importantes.
+@Maria comentó que la ética de la IA debe estar siempre en el centro de las investigaciones.
+Puedes leer más en http://ia-congreso2025.org o enviar tus dudas al correo contacto@ia2025.org.
+El Dr. Pérez afirmó: "¡La innovación no se detiene!". #InteligenciaArtificial #ÉticaDigital
+Además, varios expertos señalaron que la inteligencia artificial, la inteligencia artificial
+y la inteligencia artificial aparecen repetidamente en los debates académicos."""
