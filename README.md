@@ -50,7 +50,7 @@ The projects and practices in this repository were developed using:
     * `Scikit-learn` for machine learning algorithms.
     * `Matplotlib` and `Seaborn` for data visualization.
     * `SciPy` for scientific and technical computing.
-    * *(Add any other libraries you frequently use, e.g., TensorFlow, Keras, PyTorch, StatsModels)*
+      
 * **Development Environments:** Practices were carried out using [PyCharm](https://www.jetbrains.com/pycharm/) and [Google Colaboratory (Colab)](https://colab.research.google.com/).
 
 ## Repository Structure
