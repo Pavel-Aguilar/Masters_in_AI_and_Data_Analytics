@@ -1,58 +1,100 @@
-# Master's in AI & Data Analytics: Coursework & Projects
+# 🎓 Master's in AI & Data Analytics — Coursework & Projects
 
-This repository serves as a consolidated collection of practical exercises, projects, and assignments completed as part of my Master's degree program in Artificial Intelligence and Data Analytics. It documents my hands-on learning experience and skill development in key areas of the field.
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-## About This Repository
+A curated collection of projects, exercises, and assignments from my Master's degree in **Artificial Intelligence and Data Analytics** at [UACJ](https://www.uacj.mx/). This repo documents hands-on work across machine learning, deep learning, NLP, data engineering, and the mathematical foundations of AI.
 
-This repository was created to organize and showcase the practical work undertaken during my Master's studies. It includes code implementations, data analysis workflows, statistical explorations, and project solutions from specific courses.
+---
 
-The goal is to:
-* Maintain a structured record of my academic progress.
-* Provide tangible examples of my programming and analytical skills.
-* Serve as a reference for concepts and techniques learned.
-* Share my work with potential collaborators or employers.
+## 📂 Repository Structure
 
-## Coursework Included
+```
+Masters_in_AI_and_Data_Analytics/
+├── Advanced_Data_Engineering/
+├── Data_Analysis_and_Predictive_Modeling/
+├── Deep_Neural_Networks_(DNN)/
+└── Natural_Language_Processing_(NLP)/
+```
 
-This repository contains materials primarily from the following Master's courses:
+Each folder corresponds to a course module with its own notebooks, scripts, and datasets.
+
+---
+
+## 📚 Courses & Topics
 
 ### 1. Programming for Descriptive and Predictive Analytics
+Practical programming skills for data science workflows:
+- Data loading, cleaning, and preprocessing
+- Exploratory Data Analysis (EDA) and visualization
+- Predictive modeling: Linear/Logistic Regression, Decision Trees, Random Forest
+- Model evaluation metrics (accuracy, F1, ROC-AUC)
+- Libraries: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`
 
-This section includes practices focused on developing programming skills essential for data handling, exploration, and predictive modeling. Topics covered typically involve:
+### 2. Mathematics & Statistics for AI
+Mathematical foundations behind ML algorithms:
+- Linear Algebra: matrix operations, eigendecomposition, SVD
+- Calculus: gradients, optimization, backpropagation intuition
+- Probability & Statistics: Bayes' theorem, hypothesis testing, confidence intervals
+- Implementations from scratch using `NumPy` and `SciPy`
 
-* **Data Loading and Preprocessing:** Handling various data formats, cleaning missing values, transforming data.
-* **Exploratory Data Analysis (EDA):** Summarizing data, visualizing distributions and relationships.
-* **Descriptive Statistics:** Calculating and interpreting key statistical measures.
-* **Predictive Modeling:** Implementing and evaluating machine learning models (e.g., Linear Regression, Logistic Regression, Decision Trees, etc.) for prediction and classification tasks.
-* **Model Evaluation:** Assessing model performance using appropriate metrics.
-* **Using Core Libraries:** Extensive use of libraries such as `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, etc.
+### 3. Deep Neural Networks (DNN)
+Building and training neural networks:
+- Feedforward networks, CNNs, RNNs
+- Transfer learning and fine-tuning
+- Frameworks: `TensorFlow` / `PyTorch`
 
-### 2. Mathematics and Statistics for Artificial Intelligence
+### 4. Advanced Data Engineering
+Scalable data pipelines and infrastructure:
+- ETL design and batch processing
+- Data modeling and warehousing concepts
+- Tools: `Apache Spark`, `SQL`, cloud-based storage
 
-This section contains exercises and implementations related to the mathematical and statistical foundations that underpin many AI and Machine Learning algorithms. Practices here demonstrate understanding of concepts such as:
+### 5. Natural Language Processing (NLP)
+Text processing and language models:
+- Text preprocessing, tokenization, embeddings
+- Classical NLP vs. Transformer-based models
+- Libraries: `spaCy`, `Gensim`, `HuggingFace Transformers`
 
-* **Linear Algebra:** Vector and matrix operations, eigenvalues/eigenvectors, decomposition.
-* **Calculus:** Gradients, derivatives, optimization techniques relevant to model training.
-* **Probability Theory:** Understanding probability distributions, conditional probability, Bayes' theorem.
-* **Statistics:** Hypothesis testing, confidence intervals, regression analysis fundamentals, statistical modeling principles.
-* **Mathematical Concepts in Algorithms:** Implementing mathematical components of algorithms from scratch or using libraries like `NumPy` and `SciPy`.
+---
 
-## Tools and Technologies Used
+## 🛠️ Tech Stack
 
-The projects and practices in this repository were developed using:
+| Category | Tools |
+|---|---|
+| Language | Python 3.10+ |
+| Notebooks | Jupyter / Google Colab |
+| ML | Scikit-learn, LightGBM |
+| DL | TensorFlow, PyTorch |
+| NLP | spaCy, HuggingFace, Gensim |
+| Data | Pandas, NumPy, SciPy |
+| Visualization | Matplotlib, Seaborn, Plotly |
+| IDEs | PyCharm, VS Code, Google Colab |
 
-* **Python:** The primary programming language.
-* **Jupyter Notebooks (.ipynb):** Used extensively for exploratory analysis, visualization, and step-by-step code execution (often in Google Colab).
-* **Python Scripts (.py):** Used for more structured code, functions, and project components (often developed in PyCharm).
-* **Key Python Libraries:**
-    * `Pandas` for data manipulation and analysis.
-    * `NumPy` for numerical operations.
-    * `Scikit-learn` for machine learning algorithms.
-    * `Matplotlib` and `Seaborn` for data visualization.
-    * `SciPy` for scientific and technical computing.
-      
-* **Development Environments:** Practices were carried out using [PyCharm](https://www.jetbrains.com/pycharm/) and [Google Colaboratory (Colab)](https://colab.research.google.com/).
+---
 
-## Repository Structure
+## 🚀 Getting Started
 
-The repository is organized into directories, with each main directory corresponding to a course.
+```bash
+git clone https://github.com/Pavel-Aguilar/Masters_in_AI_and_Data_Analytics.git
+cd Masters_in_AI_and_Data_Analytics
+```
+
+Most notebooks are designed to run on **Google Colab** — just open the `.ipynb` file and run all cells.
+
+---
+
+## 👤 About Me
+
+Master's student in AI & Data Analytics at UACJ (Chihuahua, México), with a background in health sciences. Interested in applying ML/AI to real-world problems in healthcare, education, and social impact.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pavel--Aguilar-181717?logo=github)](https://github.com/Pavel-Aguilar)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
